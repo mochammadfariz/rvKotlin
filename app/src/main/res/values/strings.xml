@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">rvKotlin</string>
+    
+    <string-array name="android_os">
+        <item>Android Pie</item>
+        <item>Android Banana Bread</item>
+        <item>Android Cupcake</item>
+        <item>Android Donut</item>
+        <item>Android Eclair</item>
+        <item>Android Froyo</item>
+        <item>Android Gingerbread</item>
+        <item>Android Honey Comb</item>
+        <item>Android Ice Cream Sandwich</item>
+        <item>Android Jelly Bean</item>
+        <item>Android Kitkat</item>
+        <item>Android Lollipop</item>
+        <item>Android Marshmallow</item>
+        <item>Android Nougat</item>
+        <item>Android Oreo</item>
+    </string-array>
 </resources>
