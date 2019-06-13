@@ -1,7 +1,8 @@
-package com.example.rvkotlin
+package com.example.rvkotlin.views
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.example.rvkotlin.R
 
 class MainActivity : AppCompatActivity() {
 
